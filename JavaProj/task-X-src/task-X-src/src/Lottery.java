@@ -1,4 +1,4 @@
-import java.util.Scanner;
+0import java.util.Scanner;
 public class Lottery
 {
     public static void main(String[] args) {
