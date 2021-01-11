@@ -9,3 +9,17 @@ Default.Workspace/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
 Default.Workspace/.metadata/.mylyn/.tasks.xml.zip
 Default.Workspace/.metadata/.mylyn/tasks.xml.zip
 
+*.prefs
+*.tree
+*.version
+*.resources
+*.xml
+Default.Workspace/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache
+Default.Workspace/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache
+Default.Workspace/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache
+Default.Workspace/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+*.prefs
+*.dat
+*.prefs
+*.xmi
+Default.Workspace/.metadata/.mylyn/tasks.xml.zip
